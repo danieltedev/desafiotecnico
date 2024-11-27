@@ -1,0 +1,13 @@
+{
+  "request": {
+    "url": "/cep/01001000",
+    "method": "GET"
+  },
+  "response": {
+    "status": 200,
+    "body": "{ \"cep\": \"01001000\", \"logradouro\": \"Praça da Sé\", \"bairro\": \"Sé\", \"localidade\": \"São Paulo\", \"uf\": \"SP\" }",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
